@@ -41,4 +41,4 @@ ratio rather than 4:3. The second add support for the HD resolutions.
 
 Apply in the root of the code base using
 
-cat <file.patch> | patch -p1
+cat file.patch | patch -p1
